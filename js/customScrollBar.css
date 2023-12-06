@@ -1,0 +1,16 @@
+* {
+    caret-color: yellow;
+  }
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(#810ca8, #904ca7);
+    border-radius: 5px;
+}
+
